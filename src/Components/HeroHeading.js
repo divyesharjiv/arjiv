@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import defaultBg from "Assets/Image/Common/polishing.webp";
+import defaultBg from "Assets/Image/Common/polishing.jpeg";
 
 const HeroHeading = ({ img, title }) => {
   const [background, setBackground] = useState(img || defaultBg);

@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import polishing from "Assets/Image/Common/polishing.webp";
+import polishing from "Assets/Image/Common/polishing.jpeg";
 import HeroHeading from "Components/HeroHeading";
 import { updateMetaTags } from "utility/utils";
 

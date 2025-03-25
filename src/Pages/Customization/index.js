@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import { updateMetaTags } from "utility/utils";
 // import OrderForm from "Components/pages/popup";
 
-import BGcustomize from "Assets/Image/Customize/bg-customize.webp";
-import Tailored from "Assets/Image/Customize/Tailored.webp";
-import Modification from "Assets/Image/Customize/Modification.webp";
-import Craftsmanship from "Assets/Image/Customize/Craftsmanship.webp";
-import Delivery from "Assets/Image/Customize/Delivery.webp";
+import BGcustomize from "Assets/Image/Customize/bg-customize.jpg";
+import Tailored from "Assets/Image/Customize/Tailored.jpg";
+import Modification from "Assets/Image/Customize/Modification.jpg";
+import Craftsmanship from "Assets/Image/Customize/Craftsmanship.jpg";
+import Delivery from "Assets/Image/Customize/Delivery.jpg";
 
 import Button from "Components/Button";
 import Modal from "Components/Modal";

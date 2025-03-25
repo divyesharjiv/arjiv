@@ -4,10 +4,10 @@ import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
 
 import FloatingDiamonds from "Components//FloatingDiamonds";
 
-import mine from "Assets/Image/Common/mine-source.webp";
-import building from "Assets/Image/Common/building.webp";
-import Employee from "Assets/Image/Common/Employee.webp";
-import grading from "Assets/Image/Common/grading.webp";
+import mine from "Assets/Image/Common/mine-source.jpg";
+import building from "Assets/Image/Common/building.jpg";
+import Employee from "Assets/Image/Common/Employee.jpg";
+import grading from "Assets/Image/Common/grading.jpg";
 
 import sourceIcon from "Assets/Icons/source.svg";
 import gradingIcon from "Assets/Icons/grading.svg";

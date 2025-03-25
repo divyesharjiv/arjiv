@@ -1,5 +1,5 @@
 import React from "react";
-import rjc from "Assets/Image/Common/RJC.webp";
+import rjc from "Assets/Image/Common/RJC.jpg";
 
 const RJCBanner = () => {
   return (

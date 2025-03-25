@@ -1,11 +1,11 @@
 import React from "react";
-import earthImg from "Assets/Image/Common/earth.webp";
+import earthImg from "Assets/Image/Common/earth.jpeg";
 import arjivShapeBGImg from "Assets/Image/Common/arjiv-shapes-bg.png";
 
-import expeditions from "Assets/Image/CSR/expeditions.webp";
-import bloodCamp from "Assets/Image/CSR/blood-camp.webp";
-import greenEnergy from "Assets/Image/CSR/green-energy.webp";
-import sports from "Assets/Image/CSR/sports.webp";
+import expeditions from "Assets/Image/CSR/expeditions.jpg";
+import bloodCamp from "Assets/Image/CSR/blood-camp.jpg";
+import greenEnergy from "Assets/Image/CSR/green-energy.jpg";
+import sports from "Assets/Image/CSR/sports.jpg";
 import treePlanting from "Assets/Image/CSR/tree-planting.webp";
 
 import HeroHeading from "Components/HeroHeading";

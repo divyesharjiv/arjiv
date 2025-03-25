@@ -8,7 +8,7 @@ import Grading from "Assets/Video/grading-grid.mp4";
 import Bruting from "Assets/Video/Bruting.mp4";
 import Planning from "Assets/Video/Planning2.mp4";
 import Polishing from "Assets/Video/Polishing.mp4";
-import sorting from "Assets/Image/Common/Sorting.webp";
+import sorting from "Assets/Image/Common/Sorting.jpg";
 import Heading from "Components/Heading";
 
 function WhatWeDo() {

@@ -1,5 +1,5 @@
 import React from "react";
-import PAIR_CALIBRATED from "Assets/Image/Common/PAIR_CALIBRATED.webp";
+import PAIR_CALIBRATED from "Assets/Image/Common/PAIR_CALIBRATED.png";
 
 const LayoutAndMatchPair = () => {
   return (

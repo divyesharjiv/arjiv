@@ -1,9 +1,9 @@
-import brilliantcut from "Assets/Image/Diamondcuts/brilliant-cut.webp";
-import stepcut from "Assets/Image/Diamondcuts/step-cut.webp";
-import oldcut from "Assets/Image/Diamondcuts/old-cut.webp";
-import rosepotraitcut from "Assets/Image/Diamondcuts/rose-potrait-cut.webp";
-import exquiste from "Assets/Image/Diamondcuts/exquiste.webp";
-import fancycolor from "Assets/Image/Diamondcuts/fancy-color.webp";
+import brilliantcut from "Assets/Image/Diamondcuts/brilliant-cut.jpg";
+import stepcut from "Assets/Image/Diamondcuts/step-cut.jpg";
+import oldcut from "Assets/Image/Diamondcuts/old-cut.jpg";
+import rosepotraitcut from "Assets/Image/Diamondcuts/rose-potrait-cut.jpg";
+import exquiste from "Assets/Image/Diamondcuts/exquiste.jpg";
+import fancycolor from "Assets/Image/Diamondcuts/fancy-color.jpg";
 
 import Button from "Components/Button";
 import { TRADE_ARJIV_URL } from "Common";

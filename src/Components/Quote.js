@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import mine from "Assets/Image/Common/mine-source.webp";
+import mine from "Assets/Image/Common/mine-source.jpg";
 import quote from "Assets/Icons/quote.svg";
 
 const Quote = () => {

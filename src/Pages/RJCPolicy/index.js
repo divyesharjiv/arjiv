@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import RJCLogo from "Assets/Image/Common/RJC.webp";
+import RJCLogo from "Assets/Image/Common/RJC.jpg";
 import Heading from "Components/Heading";
 import { updateMetaTags } from "utility/utils";
 import { Link } from "react-router-dom";

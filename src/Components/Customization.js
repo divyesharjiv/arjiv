@@ -1,12 +1,11 @@
 import React, { useState } from "react";
-import CustomizationImg from "Assets/Image/Common/customize.webp";
-import customizeTabImg from "Assets/Image/Common/customize-tab.webp";
+import CustomizationImg from "Assets/Image/Common/customize.jpg";
+import customizeTabImg from "Assets/Image/Common/customize-tab.jpg";
 import { getResponsiveImage } from "utility/utils";
 
 import Button from "Components/Button";
 import Modal from "Components/Modal";
 import CustomizationOrder from "Components/CustomizationOrder";
-// import CustomOrder from "Components/pages/customorder";
 
 const Customization = () => {
   const [visible, setVisible] = useState(false);
